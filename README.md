@@ -10,7 +10,7 @@ This project analyzes real estate transactions and property details using Python
 - [License](#license)
 
 ## About
-This project aims to showcase Python capabilities in data analysis, visualization, and machine learning. It was created as part of preparation for a job interview, utilizing a real estate dataset.
+This project aims to showcase Python capabilities in data analysis, visualization, and machine learning. It was utilizing a real estate dataset.
 
 ## Key Properties
 - Mix of categorical and numeric features
