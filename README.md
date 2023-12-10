@@ -1,23 +1,31 @@
 # Real Estate Analysis
 
-This repository contains code and analysis for real estate data, including a Jupyter Notebook and associated files.
+This project analyzes real estate transactions and property details using Python. The analysis includes exploring pricing trends, creating visualizations, and building a machine learning model to predict house prices.
 
-## Overview
+## Table of Contents
+- [About](#about)
+- [Key Properties](#key-properties)
+- [Project Structure](#project-structure)
+- [Usage](#usage)
+- [License](#license)
 
-The provided Jupyter Notebook explores the relationship between house prices and the distance to the nearest MRT station. The analysis includes a scatter plot and additional insights.
+## About
+This project aims to showcase Python capabilities in data analysis, visualization, and machine learning. It was created as part of preparation for a job interview, utilizing a real estate dataset.
 
-## Requirements
+## Key Properties
+- Mix of categorical and numeric features
+- Target variable: Price per square meter
+- 400 transactions from 2012 to 2013
+- Houses ranging from new construction to 40 years old
+- Locations spread across coordinates in the Singapore area
 
-- Python 3.x
-- Jupyter Notebook
-- Matplotlib
-- pandas
-- NumPy
-- (Include any additional libraries or dependencies)
+## Project Structure
+- `RealEstateAlg.ipynb`: Jupyter notebook containing the analysis and code.
+- `RealEstateAlg.py`: Python script version of the analysis.
+- `requirements.txt`: File listing dependencies for the project.
+- `Figure_1.png`: Scatter plot visualizing house prices against the distance to the nearest MRT station.
 
-## Instructions
-
-1. Clone this repository:
+## Usage
+1. Install dependencies:
    ```bash
-   git clone <repository-url>
-
+   pip install -r requirements.txt
