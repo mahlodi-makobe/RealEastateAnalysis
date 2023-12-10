@@ -1,0 +1,4 @@
+matplotlib
+pandas
+numpy
+# Add other dependencies as needed
